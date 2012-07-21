@@ -1,0 +1,12 @@
+permalink: /:year/:month/:day/:title
+auto: false
+pygments: true
+paginate: 10
+exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'unicorn.rb', 'config.ru']
+destination: 'public'
+
+production_url: https://github.com/himynameisjonas/jekyll-heroku-unicorn
+title : jekyll + heroku + unicorn
+author:
+  name: Jonas Forsberg
+  email: hello@jonasforsberg.se
