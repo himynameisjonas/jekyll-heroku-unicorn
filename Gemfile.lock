@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/adaoraul/rack-jekyll.git
-  revision: 99dca1bd8ba0e475b2fb416272c785bb64e5016d
+  remote: https://github.com/adaoraul/rack-jekyll
+  revision: 0d482e421eefd29802dbbf3248dd4db501e59bef
   specs:
     rack-jekyll (0.4.0)
       jekyll (~> 0.11.0)
@@ -33,10 +33,10 @@ GEM
       liquid (~> 2.3)
       maruku (~> 0.5)
     kgio (2.7.4)
-    kramdown (0.13.7)
+    kramdown (0.13.8)
     launchy (2.1.0)
       addressable (~> 2.2.6)
-    liquid (2.3.0)
+    liquid (2.4.1)
     maruku (0.6.0)
       syntax (>= 1.0.0)
     mime-types (1.19)
