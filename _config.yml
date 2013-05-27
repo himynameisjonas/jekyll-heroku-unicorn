@@ -1,12 +1,10 @@
-permalink: /:year/:month/:day/:title
-auto: false
+name: Your New Jekyll Site
 pygments: true
-paginate: 10
-exclude: ['public', 'bin', 'vendor', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'unicorn.rb', 'config.ru', 'README.md']
-destination: 'public'
-
-production_url: https://github.com/himynameisjonas/jekyll-heroku-unicorn
-title : jekyll + heroku + unicorn
-author:
-  name: Jonas Forsberg
-  email: hello@jonasforsberg.se
+exclude:
+ - unicorn.rb
+ - README.md
+ - Procfile
+ - Gemfile
+ - Gemfile.lock
+ - config.ru
+ - vendor
