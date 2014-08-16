@@ -20,3 +20,4 @@ exclude:
  - Gemfile.lock
  - config.ru
  - vendor
+ - app.json
