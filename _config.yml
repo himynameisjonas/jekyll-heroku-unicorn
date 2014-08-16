@@ -1,5 +1,5 @@
 name: Your New Jekyll Site
-pygments: true
+highlighter: pygments
 exclude:
  - unicorn.rb
  - README.md
