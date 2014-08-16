@@ -1,0 +1,12 @@
+{
+  "name": "Jekyll + Heroku + Unicorn",
+  "description": "Blazing fast blogging with Jekyll deployed to Heroku with 6 Unicorn workers.",
+  "keywords": [
+    "jekyll",
+    "unicorn",
+    "blog",
+    "static site"
+  ],
+  "repository": "https://github.com/himynameisjonas/jekyll-heroku-unicorn",
+  "success_url": "/"
+}
